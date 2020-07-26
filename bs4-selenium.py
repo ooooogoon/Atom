@@ -29,4 +29,4 @@ for i in r:
     href = alink.get("href")
     print(href)
 
-driver.close
+driver.close()

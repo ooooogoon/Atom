@@ -10,3 +10,7 @@ driver.find_element_by_css_selector('.gLFyf.gsfi').send_keys(Keys.ENTER)
 
 driver.find_element_by_css_selector('.LC20lb.DKV0Md').click()
 # driver.find_elements_by_css_selector('.LC20lb.DKV0Md')[1].click() #element's' 가 되어야지 검색결과 2번째 클릭 가능
+
+
+##셀레니움
+##
